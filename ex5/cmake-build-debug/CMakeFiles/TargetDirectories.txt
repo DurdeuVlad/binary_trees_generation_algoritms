@@ -1,3 +1,0 @@
-C:/Users/Vlad/Desktop/lucrari/SDA/pregatire test laborator/ex5/cmake-build-debug/CMakeFiles/ex5.dir
-C:/Users/Vlad/Desktop/lucrari/SDA/pregatire test laborator/ex5/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Vlad/Desktop/lucrari/SDA/pregatire test laborator/ex5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
